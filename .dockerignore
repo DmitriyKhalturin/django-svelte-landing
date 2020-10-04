@@ -1,0 +1,13 @@
+.git
+.idea
+.dockerignore
+.editorconfig
+.gitignore
+env
+docker-compose.localhost.postgres.yml
+docker-compose.localhost.sqlite3.yml
+docker-compose.yml
+Dockerfile
+Jenkinsfile
+Pipfile
+README.md
