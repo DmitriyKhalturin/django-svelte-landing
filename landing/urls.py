@@ -48,4 +48,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path("api/sample-api-view/", sample_api_view),
 ] + frontend_urls
-

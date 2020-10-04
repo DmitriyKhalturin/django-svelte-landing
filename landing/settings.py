@@ -144,18 +144,18 @@ PWA_APP_DISPLAY = "standalone"
 PWA_APP_SCOPE = "/"
 PWA_APP_ORIENTATION = "any"
 PWA_APP_START_URL = "/"
-PWA_APP_ICONS = (
+PWA_APP_ICONS = [
     {
         "src": "/static/images/my_app_icon_green.png",
-        "sizes": "192x192"
+        "sizes": "192x192",
     }
-)
-PWA_APP_ICONS_APPLE = (
+]
+PWA_APP_ICONS_APPLE = [
     {
         "src": "/static/images/my_app_icon_green.png",
-        "sizes": "192x192"
+        "sizes": "192x192",
     }
-)
+]
 PWA_APP_SPLASH_SCREEN = ()
 PWA_APP_DIR = "ltr"
 PWA_APP_LANG = "en-US"
