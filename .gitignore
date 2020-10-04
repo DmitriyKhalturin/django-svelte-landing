@@ -46,6 +46,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Django collected static files
+staticfiles/
+
 # Node
 node_modules
 
