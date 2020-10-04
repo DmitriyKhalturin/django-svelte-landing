@@ -54,3 +54,6 @@ node_modules
 
 # Webpack
 webpack-stats.json
+
+# Distribution / packaging
+dist/
